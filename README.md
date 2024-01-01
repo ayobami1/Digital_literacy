@@ -1,38 +1,21 @@
-1. **Research Skills Development:**
-   - [Google Scholar](https://scholar.google.com/)
-   - [Coursera](https://www.coursera.org/)
-   - [edX](https://www.edx.org/)
-   - [Khan Academy](https://www.khanacademy.org/)
+<!-- Add your circular image here with cool coloring -->
+<div align="center" style="background-color: #303030; padding: 20px; border-radius: 50%;">
+  <img src="https://github.com/ayobami1/Digital_literacy/raw/main/Ayocrypt.jpg" alt="Your Image" style="border-radius: 50%; width: 250px; height: 250px; border: 4px solid #ffffff;">
+</div>
 
-2. **Create a Personal Blog:**
-   - [WordPress](https://wordpress.com/)
-   - [Blogger](https://www.blogger.com/)
-   - [Medium](https://medium.com/)
-   - [Wix](https://www.wix.com/)
-   - [Squarespace](https://www.squarespace.com/)
 
-3. **Citing Sources Properly:**
-   - [APA Style Guide](https://apastyle.apa.org/)
-   - [MLA Style Center](https://style.mla.org/)
-   - [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
-   - [Harvard Referencing Guide](https://library.unimelb.edu.au/recite)
+## Bible Verses
 
-4. **Citation Management Tools:**
-   - [Zotero](https://www.zotero.org/)
-   - [EndNote](https://endnote.com/)
-   - [Mendeley](https://www.mendeley.com/)
+**World English Bible**
+> Wisdom is supreme. Get wisdom. Yes, though it costs all your possessions, get understanding.
 
-5. **Grammar and Proofreading:**
-   - [Grammarly](https://www.grammarly.com/)
-   - [Hemingway Editor](https://hemingwayapp.com/)
+**New International Version**
+> The beginning of wisdom is this: Get wisdom. Though it cost all you have, get understanding.
 
-6. **Visual Content Creation:**
-   - [Canva](https://www.canva.com/)
-   - [Piktochart](https://piktochart.com/)
+## Digital Literacy
 
-7. **SEO Tools:**
-   - [Google Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
-   - [Yoast SEO (WordPress Plugin)](https://yoast.com/wordpress/plugins/seo/)
+Digital literacy encompasses the ability to use and navigate digital tools and technologies effectively. It involves understanding, evaluating, and creating digital content in various forms. Digital literacy is not only about technical skills but also about critical thinking, ethical considerations, and the ability to adapt to the evolving digital landscape.
 
-8. **Analytics:**
-   - [Google Analytics](https://analytics.google.com/)
+# Wisdom in the Digital Age
+
+In the digital age, the pursuit of wisdom and understanding is akin to the concept of digital literacy. It emphasizes the importance of acquiring knowledge and insight into the digital realm, acknowledging that the benefits outweigh the costs. In a world filled with vast information and technological advancements, digital literacy becomes a cornerstone for making informed decisions, fostering creativity, and navigating the complexities of the digital landscape.
