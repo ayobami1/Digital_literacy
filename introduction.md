@@ -23,9 +23,9 @@ Digital Mountain is one of the major mountains that is very strong … it affect
 
 
 
-### Slide 2: Key Components 
+### Key Components 
 
-** Components of Digital Literacy**
+**Components of Digital Literacy**
 
 ---
 
