@@ -1,4 +1,4 @@
-# DIGITAL Literacy
+ # DIGITAL Literacy
 
 > "Knowledge will increase dan 12:4"
 
@@ -88,50 +88,48 @@ Understanding and managing privacy and security online is vital. Updating privac
 
 ## Tools for Digital Literacy and Research:
 
-1. **Research Skills Development:**
-   - [Google Scholar](https://scholar.google.com/)
-   - [Coursera](https://www.coursera.org/)
-   - [edX](https://www.edx.org/)
-   - [Khan Academy](https://www.khanacademy.org/)
+### Research Skills Development:
+- [Google Scholar](https://scholar.google.com/)
+- [Coursera](https://www.coursera.org/)
+- [edX](https://www.edx.org/)
+- [Khan Academy](https://www.khanacademy.org/)
 
-2. **Create a Personal Blog:**
-   - [WordPress](https://wordpress.com/)
-   - [Blogger](https://www.blogger.com/)
-   - [Medium](https://medium.com/)
-   - [Wix](https://www.wix.com/)
-   - [Squarespace](https://www.squarespace.com/)
+### Create a Personal Blog:
+- [WordPress](https://wordpress.com/)
+- [Blogger](https://www.blogger.com/)
+- [Medium](https://medium.com/)
+- [Wix](https://www.wix.com/)
+- [Squarespace](https://www.squarespace.com/)
 
-3. **Citing Sources Properly:**
-   - [APA Style Guide](https://apastyle.apa.org/)
-   - [MLA Style Center](https://style.mla.org/)
-   - [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
-   - [Harvard Referencing Guide](https://library.unimelb.edu.au/recite)
+### Citing Sources Properly:
+- [APA Style Guide](https://apastyle.apa.org/)
+- [MLA Style Center](https://style.mla.org/)
+- [Chicago Manual of Style](https://www.chicagomanualofstyle.org/home.html)
+- [Harvard Referencing Guide](https://library.unimelb.edu.au/recite)
 
-4. **Citation Management Tools:**
-   - [Zotero](https://www.zotero.org/)
-   - [EndNote](https://endnote.com/)
-   - [Mendeley](https://www.mendeley.com/)
+### Citation Management Tools:
+- [Zotero](https://www.zotero.org/)
+- [EndNote](https://endnote.com/)
+- [Mendeley](https://www.mendeley.com/)
 
-5. **Grammar and Proofreading:**
-   - [Grammarly](https://www.grammarly.com/)
-   - [Hemingway Editor](https://hemingwayapp.com/)
+### Grammar and Proofreading:
+- [Grammarly](https://www.grammarly.com/)
+- [Hemingway Editor](https://hemingwayapp.com/)
 
-6. **Visual Content Creation:**
-   - [Canva](https://www.canva.com/)
-   - [Piktochart](https://piktochart.com/)
+### Visual Content Creation:
+- [Canva](https://www.canva.com/)
+- [Piktochart](https://piktochart.com/)
 
-7. **SEO Tools:**
-   - [Google Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
-   - [Yoast SEO (WordPress Plugin)](https://yoast.com/wordpress/plugins/seo/)
+### SEO Tools:
+- [Google Keyword Planner](https://ads.google.com/intl/en_in/home/tools/keyword-planner/)
+- [Yoast SEO (WordPress Plugin)](https://yoast.com/wordpress/plugins/seo/)
 
+### Analytics:
+- [Google Analytics](https://analytics.google.com/)
 
-8. **Analytics:**
-   - [Google Analytics](https://analytics.google.com/)
-  
-9. **AI Tools**
-   - **AI Tools as of January 1, 2024**
+## AI Tools as of January 1, 2024:
 
-**Large Language Models (LLMs):**
+### Large Language Models (LLMs):
 
 1. **Bard (Google AI)**
    - *Description:* A factual language model for text generation, translation, creative content, and informative answers.
@@ -152,7 +150,7 @@ Understanding and managing privacy and security online is vital. Updating privac
 5. **Gemini (Google AI)**
    - *Description:* High-performance LLM focusing on code generation and manipulation, enabling code refactoring, bug fixing, and creative experimentation.
 
-**Specialized AI Tools:**
+### Specialized AI Tools:
 
 6. **Pi.ai (Dialogflow)**
    - *Description:* Conversational AI platform for building chatbots and virtual assistants.
@@ -171,35 +169,37 @@ Understanding and managing privacy and security online is vital. Updating privac
    - *Link:* [Grammarly](https://www.grammarly.com/)
 
 10. **Jasper (Formerly Jarvis)**
-   - *Description:* AI writing assistant for creating long-form content, blog posts, marketing copy, etc.
-   - *Link:* [Jasper (Formerly Jarvis)](https://www.jasper.ai/)
+    - *Description:* AI writing assistant for creating long-form content, blog posts, marketing copy, etc.
+    - *Link:* [Jasper (Formerly Jarvis)](https://www.jasper.ai/)
 
 11. **Copysmith**
-   - *Description:* AI writing assistant for generating headlines, social media posts, product descriptions, etc.
-   - *Link:* [Copysmith](https://www.copysmith.ai/)
+    - *Description:* AI writing assistant for generating headlines, social media posts, product descriptions, etc.
+    - *Link:* [Copysmith](https://www.copysmith.ai/)
 
 12. **Deepomatic**
-   - *Description:* AI video analysis platform for object detection, activity recognition, and anomaly detection.
-   - *Link:* [Deepomatic](https://deepomatic.com/)
+    - *Description:* AI video analysis platform for object detection, activity recognition, and anomaly detection.
+    - *Link:* [Deepomatic](https://deepomatic.com/)
 
 13. **Clarifai**
-   - *Description:* AI visual recognition platform for image/video tagging, object detection, and facial recognition.
-   - *Link:* [Clarifai](https://www.clarifai.com/)
+    - *Description:* AI visual recognition platform for image/video tagging, object detection, and facial recognition.
+    - *Link:* [Clarifai](https://www.clarifai.com/)
 
 14. **Superhuman**
-   - *Description:* AI-powered email client for prioritizing inbox, scheduling emails, and faster writing.
-   - *Link:* [Superhuman](https://www.superhuman.com/)
+    - *Description:* AI-powered email client for prioritizing inbox, scheduling emails, and faster writing.
+    - *Link:* [Superhuman](https://www.superhuman.com/)
 
-**Image Processing and Generation:**
+### Image Processing and Generation:
 
 15. **DALL-E 2 (OpenAI)**
-   - *Description:* Generates realistic and creative images from text descriptions.
-   - *Link:* [DALL-E 2 (OpenAI)](https://openai.com/dall-e-2/)
+    - *Description:* Generates realistic and creative images from text descriptions.
+    - *Link:* [DALL-E 2 (OpenAI)](https://openai.com/dall-e-2/)
 
 16. **Midjourney**
-   - *Description:* Text-to-image generator creating unique and dreamlike art styles.
-   - *Link:* [Midjourney](https://midjourney.com/)
+    - *Description:* Text-to-image generator creating unique and dreamlike art styles.
+    - *Link:* [Midjourney](https://midjourney.com/)
 
 17. **NightCafe Creator**
-   - *Description:* AI art platform for generating artistic
+    - *Description:* AI art platform for generating artistic images based on user input.
+    - *Link:* [NightCafe Creator](https://nightcafe.studio/)
 
+Feel free to adapt and modify this structure as needed.
