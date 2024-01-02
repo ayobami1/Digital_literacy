@@ -133,7 +133,7 @@ Understanding and managing privacy and security online is vital. Updating privac
 
 1. **Bard (Google AI)**
    - *Description:* A factual language model for text generation, translation, creative content, and informative answers.
-   - *Link:* [Bard (Google AI)](https://ai.google/research/bard)
+   - *Link:* [Bard (Google AI)](https://bard.google.com/chat?utm_source=sem&utm_medium=paid-media&utm_campaign=q3enNG_sem7)
 
 2. **ChatGPT (OpenAI)**
    - *Description:* A powerful pre-trained transformer model for conversation, creative text formats, and informative answers.
@@ -154,7 +154,7 @@ Understanding and managing privacy and security online is vital. Updating privac
 
 6. **Pi.ai (Dialogflow)**
    - *Description:* Conversational AI platform for building chatbots and virtual assistants.
-   - *Link:* [Pi.ai (Dialogflow)](https://cloud.google.com/dialogflow)
+   - *Link:* [Pi.ai (Dialogflow)](https://pi.ai/talk)
 
 7. **bai.ai (BAIDU AI)**
    - *Description:* Comprehensive platform offering tools for NLP, computer vision, speech recognition, and more.
